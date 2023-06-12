@@ -1,0 +1,6 @@
+.k_search_input:focus + ul.k_search{
+   display: block; /* Show */
+}
+.k_search{
+    display: none; /* Hide */
+}
